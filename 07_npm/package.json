@@ -1,0 +1,17 @@
+{
+  "name": "07_npm",
+  "version": "1.0.0",
+  "description": "entrenamiento de npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "node",
+    "curso"
+  ],
+  "author": "@canelacho",
+  "license": "MIT"
+}
