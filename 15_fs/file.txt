@@ -1,0 +1,3 @@
+Informacion de la que estamos hablando
+durante la manana de hoy 
+entrenamiento de node js
